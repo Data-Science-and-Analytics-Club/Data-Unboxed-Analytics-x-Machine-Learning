@@ -1,6 +1,6 @@
-# Data Unboxed — Analytics & Machine Learning
+# Data Unboxed : Analytics X Machine Learning
 
-Welcome to the Data Unboxed project! This repository contains comprehensive masterclasses covering the complete data science pipeline, from Data Analytics and Visualization (DAV) to Machine Learning (ML).
+This repository contains comprehensive masterclasses covering the complete data science pipeline, from Data Analytics and Visualization (DAV) to Machine Learning (ML).
 
 ## 📊 Data Analytics & Visualization (DAV)
 
