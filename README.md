@@ -39,3 +39,9 @@ This section demonstrates the fundamental workflow of building and evaluating a 
    pip install pandas numpy matplotlib seaborn scikit-learn
    ```
 4. Launch Jupyter Notebook and open the `.ipynb` files to begin!
+
+---
+
+### Author
+
+_Prepared by Arjya Dey & Nishigandha Sawant_
